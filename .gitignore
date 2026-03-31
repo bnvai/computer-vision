@@ -1,1 +1,5 @@
-data/*.mp4
+# Ignore all files in the project
+**/*.mp4
+**/*.avi
+**/*.pt
+**/*.onnx
